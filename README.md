@@ -1,7 +1,7 @@
 __- Sistema de stock de productos__
 
-  La actividad de este proyecto fue tomada de una entrevista tecnica. Este sistema no está desarrollado, el objetivo era diseñar casos de pruebas apartir de una documentacion 
-  simple y ambigua. 
+  La actividad de este proyecto fue tomada de una entrevista tecnica. Este sistema no está desarrollado, el objetivo era diseñar casos de pruebas para validar el correcto 
+  funcionamiento de la aplicacion. 
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
   
