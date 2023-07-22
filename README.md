@@ -3,9 +3,9 @@
   La actividad de este proyecto fue tomada de una entrevista tecnica. Este sistema no está desarrollado, el objetivo era diseñar casos de pruebas para validar el correcto 
   funcionamiento de la aplicacion. 
  
-* [Documentacion](#)   
+* [Documentacion](#Ejemplos-de-mi-trabajo)   
   
-* [Casos de prueba](#)    
+* [Casos de prueba](#Casos-de-prueba)    
     
     
 __- Resumen__
