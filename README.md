@@ -1,4 +1,4 @@
-__- Sistema de stock de productos__
+### Sistema de stock de productos 
 
   La actividad de este proyecto fue tomada de una entrevista tecnica. Este sistema no está desarrollado, el objetivo era diseñar casos de pruebas para validar el correcto 
   funcionamiento de la aplicacion. 
@@ -8,7 +8,7 @@ __- Sistema de stock de productos__
 * [Casos de prueba](#Casos-de-prueba)    
     
     
-### RESUMEN  
+__- Resumen__
 
 El siguiente proyecto trata sobre un sistema web de stock que cuenta con un formulario para el registro de nuevos productos.        
 
