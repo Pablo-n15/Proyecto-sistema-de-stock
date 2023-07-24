@@ -5,7 +5,7 @@
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
   
-* [Casos de prueba]([#Casos-de-prueba]https://docs.google.com/spreadsheets/d/1rJ0hbM8WvnNIS6GtqIF9hZiNMpWuoDGn/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true)    
+* [Casos de prueba]([#Casos-de-prueba]) (https://docs.google.com/spreadsheets/d/1rJ0hbM8WvnNIS6GtqIF9hZiNMpWuoDGn/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true)    
     
     
 __- Resumen__
