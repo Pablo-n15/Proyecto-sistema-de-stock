@@ -5,7 +5,7 @@
  
 * [Documentacion](#Ejemplos-de-mi-trabajo)   
   
-* [Casos de prueba](#Casos-de-prueba)    
+* [Casos de prueba]([#Casos-de-prueba](https://docs.google.com/spreadsheets/d/1rJ0hbM8WvnNIS6GtqIF9hZiNMpWuoDGn/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true))    
     
     
 __- Resumen__
@@ -26,8 +26,8 @@ comencé a diseñar las Pruebas, pensando en qué datos debe aceptar cada campo 
  
 __Documentación__  
   
->Criterios de aceptacion [Acceptance-Criteria](https://drive.google.com/file/d/1zGhadC5V0osEw9xVshkq32J_4Yy8kjF4/view?usp=share_link)
+>Criterios de aceptacion [Acceptance-Criteria]()
 
 ### Casos de prueba 
 
-Casos de prueba sistema web stock: [Test-Cases](https://docs.google.com/spreadsheets/d/1rJ0hbM8WvnNIS6GtqIF9hZiNMpWuoDGn/edit?usp=share_link&ouid=105176983608863755433&rtpof=true&sd=true)
+Casos de prueba sistema web stock: [Test-Cases]()
