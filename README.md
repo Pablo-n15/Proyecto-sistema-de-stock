@@ -22,12 +22,3 @@ El siguiente proyecto trata sobre un sistema web de stock que cuenta con un form
 Luego de analizar la documentacion del sistema de registro.
 comencé a diseñar las Pruebas, pensando en qué datos debe aceptar cada campo del formulario y que debería pasar si no se cumple con los datos requeridos.  
  
- ## Ejemplos de mi trabajo
- 
-__Documentación__  
-  
->Criterios de aceptacion [Acceptance-Criteria]()
-
-### Casos de prueba 
-
-Casos de prueba sistema web stock: [Test-Cases]()
