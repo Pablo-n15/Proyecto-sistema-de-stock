@@ -13,7 +13,6 @@ __- Resumen__
 El siguiente proyecto trata sobre un sistema web de stock que cuenta con un formulario para el registro de nuevos productos.        
 
 
-> Requerimiento del sistema: 
 
 
 ![](https://github.com/Pablo-n15/Portfolio/blob/main/requerimiento1.jpg)  
